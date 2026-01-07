@@ -1,0 +1,14 @@
+C:\Users\ernar\OneDrive\Рабочий стол\Домашние задание\.NET_Запросы_C#\Console_kursy_valut\bin\Debug\net8.0\Console_kursy_valut.exe
+C:\Users\ernar\OneDrive\Рабочий стол\Домашние задание\.NET_Запросы_C#\Console_kursy_valut\bin\Debug\net8.0\Console_kursy_valut.deps.json
+C:\Users\ernar\OneDrive\Рабочий стол\Домашние задание\.NET_Запросы_C#\Console_kursy_valut\bin\Debug\net8.0\Console_kursy_valut.runtimeconfig.json
+C:\Users\ernar\OneDrive\Рабочий стол\Домашние задание\.NET_Запросы_C#\Console_kursy_valut\bin\Debug\net8.0\Console_kursy_valut.dll
+C:\Users\ernar\OneDrive\Рабочий стол\Домашние задание\.NET_Запросы_C#\Console_kursy_valut\bin\Debug\net8.0\Console_kursy_valut.pdb
+C:\Users\ernar\OneDrive\Рабочий стол\Домашние задание\.NET_Запросы_C#\Console_kursy_valut\obj\Debug\net8.0\Console_kursy_valut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ernar\OneDrive\Рабочий стол\Домашние задание\.NET_Запросы_C#\Console_kursy_valut\obj\Debug\net8.0\Console_kursy_valut.AssemblyInfoInputs.cache
+C:\Users\ernar\OneDrive\Рабочий стол\Домашние задание\.NET_Запросы_C#\Console_kursy_valut\obj\Debug\net8.0\Console_kursy_valut.AssemblyInfo.cs
+C:\Users\ernar\OneDrive\Рабочий стол\Домашние задание\.NET_Запросы_C#\Console_kursy_valut\obj\Debug\net8.0\Console_kursy_valut.csproj.CoreCompileInputs.cache
+C:\Users\ernar\OneDrive\Рабочий стол\Домашние задание\.NET_Запросы_C#\Console_kursy_valut\obj\Debug\net8.0\Console_kursy_valut.dll
+C:\Users\ernar\OneDrive\Рабочий стол\Домашние задание\.NET_Запросы_C#\Console_kursy_valut\obj\Debug\net8.0\refint\Console_kursy_valut.dll
+C:\Users\ernar\OneDrive\Рабочий стол\Домашние задание\.NET_Запросы_C#\Console_kursy_valut\obj\Debug\net8.0\Console_kursy_valut.pdb
+C:\Users\ernar\OneDrive\Рабочий стол\Домашние задание\.NET_Запросы_C#\Console_kursy_valut\obj\Debug\net8.0\Console_kursy_valut.genruntimeconfig.cache
+C:\Users\ernar\OneDrive\Рабочий стол\Домашние задание\.NET_Запросы_C#\Console_kursy_valut\obj\Debug\net8.0\ref\Console_kursy_valut.dll

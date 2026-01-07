@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ow24iU0ktK0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ernar\\OneDrive\\Рабочий стол\\Домашние задание\\.NET_Запросы_C#\\Console_kursy_valut\\Console_kursy_valut.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ernar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.22\\microsoft.windowsdesktop.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\ernar\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.22\\microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\ernar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.22\\microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\ernar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.22\\microsoft.netcore.app.host.win-x64.8.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
